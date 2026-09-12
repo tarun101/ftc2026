@@ -1,16 +1,14 @@
-# FTC 2026 Codex skill
+# FTC 2026 ChatGPT skill
 
-`ftc2026` answers questions about the 2026-27 FTC BIOBUZZ season from current public sources. It checks official FIRST materials first, cites the governing rule or section, and uses curated FTC channels and FTCScout for design, programming, strategy, and scouting context.
+`ftc2026` is a ChatGPT skill that answers questions about the 2026-27 FTC BIOBUZZ season from current public sources. It checks official FIRST materials first, cites the governing rule or section, and uses curated FTC channels and FTCScout for design, programming, strategy, and scouting context.
 
-## Install
+## Install in ChatGPT
 
-Clone this repository into a Codex skills directory:
+1. Download this repository as a ZIP file.
+2. In the ChatGPT desktop app, open **Skills** and add the downloaded skill.
+3. Invoke it with `@ftc2026` or ask a relevant FTC question.
 
-```bash
-git clone https://github.com/tarun101/ftc2026.git ~/.codex/skills/ftc2026
-```
-
-Then invoke it with `$ftc2026` or ask a relevant FTC question.
+See [Build skills](https://learn.chatgpt.com/docs/build-skills) in the official ChatGPT documentation.
 
 ## Source policy
 
