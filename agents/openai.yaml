@@ -1,0 +1,13 @@
+interface:
+  display_name: "FTC 2026"
+  short_description: "Current, cited FTC BIOBUZZ answers"
+  default_prompt: "Use $ftc2026 to answer from the notebook sources with current evidence, without posting to NotebookLM chat."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  products:
+  - "chatgpt"
+  - "codex"
+  - "api"
+  - "atlas"
+  allow_implicit_invocation: true
